@@ -1,0 +1,129 @@
+.h1{
+    background-color: lightblue;
+    border-radius: 30px;
+    text-align: center;
+    border: 3px solid red;
+}
+
+.h2{
+    font-size: 30px ;
+    color: green;
+}
+
+.h3{
+    background-color: yellow;
+    color: green;
+    text-align: center;
+    font-size: 20px;
+}
+.h4{
+    background-color: yellow;
+    color: green;
+    text-align: center;
+    font-size: 20px;
+}
+
+.h5{
+    background-color: black;
+    border-radius: 20px;
+    text-align: center;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+.comment-section {
+    margin-bottom: 20px;
+    
+}
+
+label {
+    font-weight: bold;
+}
+
+textarea {
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+input[type="radio"] {
+    margin-right: 10px;
+}
+
+.submit-button {
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.submit-button:hover {
+    background-color: #0056b3;
+}
+
+.animal-info {
+    margin-top: 20px;
+}
+
+.animal-info h2 {
+    background-color: #ffff00;
+    padding: 10px;
+    text-align: center;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 10px;
+    text-align: left;
+    border: 1px solid #ddd;
+}
+
+.header-yellow {
+    background-color: green;
+    color: white;
+    text-align: center;
+}
+
+.header-blue {
+    background-color: #0000ff;
+    color: #fff;
+    text-align: center;
+}
+
+.row-red {
+    background-color: #ff0000;
+    color: #fff;
+    text-align: center;
+}
+
+.row-green {
+    background-color: red;
+    color: #fff;
+    text-align: center;
+}
+
+.row-black {
+    background-color: #000;
+    color: #fff;
+    text-align: center;
+}
+
+
+.h7{
+    color: green;
+}
